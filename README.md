@@ -25,9 +25,9 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Immersive 3D Web Applications**
+- 🔭 I’m currently working on **Immersive Web Applications**
 - 🌱 I’m currently learning **Next.js 14, Three.js, and Docker**
-- 🐧 I develop on **Zorin OS (Linux)** for maximum performance.
+- 🐧 I develop on **Ubuntu OS (Linux)** for maximum performance.
 - 💬 Ask me about **React, Node.js, MongoDB, and System Design.**
 - 📫 How to reach me: **contact@mustaqueem.dev**
 - ⚡ Fun fact: I treat code like art and bugs like personal insults.
@@ -54,18 +54,18 @@
 
 <div align="center">
   <a href="https://github.com/your-username">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=000000" alt="Mustaqueem's Github Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mustaqueem-dev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=000000" alt="Mustaqueem's Github Stats" />
   </a>
   <br/><br/>
   <a href="https://github.com/your-username">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight&hide_border=true&background=000000" alt="Mustaqueem's Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustaqueem-dev&theme=tokyonight&hide_border=true&background=000000" alt="Mustaqueem's Streak" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustaqueem&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" />
 </div>
 
 ---
