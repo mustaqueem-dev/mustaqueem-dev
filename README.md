@@ -29,7 +29,7 @@
 - 🌱 I’m currently learning **Next.js 14, Three.js, and Docker**
 - 🐧 I develop on **Ubuntu OS (Linux)** for maximum performance.
 - 💬 Ask me about **React, Node.js, MongoDB, and System Design.**
-- 📫 How to reach me: **contact@mustaqueem.dev**
+- 📫 How to reach me: **mustaqueem.dev@gmail.com**
 - ⚡ Fun fact: I treat code like art and bugs like personal insults.
 
 ---
