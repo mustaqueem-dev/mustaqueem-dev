@@ -9,10 +9,10 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/mustaqueem-dev">
     <img src="https://komarev.com/ghpvc/?username=mustaqueem-dev&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
   </a>
-  <a href="https://twitter.com/your-twitter">
+  <a href="https://x.com/mustaqueem_dev">
     <img src="https://img.shields.io/twitter/follow/your-twitter?label=Follow&style=social" alt="Twitter Follow" />
   </a>
 </p>
@@ -53,11 +53,11 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/mustaqueem-dev">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=mustaqueem-dev&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=000000" alt="Mustaqueem's Github Stats" />
   </a>
   <br/><br/>
-  <a href="https://github.com/your-username">
+  <a href="https://github.com/mustaqueem-dev">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustaqueem-dev&theme=tokyonight&hide_border=true&background=000000" alt="Mustaqueem's Streak" />
   </a>
 </div>
@@ -65,17 +65,17 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustaqueem&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustaqueem-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" />
 </div>
 
 ---
 
 <div align="center">
   <h3>🤝 Connect With Me</h3>
-  <a href="https://linkedin.com/in/your-linkedin">
+  <a href="https://linkedin.com/in/md-mustaqueem-2895813a3">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:contact@mustaqueem.dev">
+  <a href="mailto:contact@mustaqueem.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://your-portfolio-link.com">
