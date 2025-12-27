@@ -78,7 +78,7 @@
   <a href="mailto:contact@mustaqueem.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://your-portfolio-link.com">
+  <a href="https://portfolio-alpha-bay-14.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-22d3ee?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
