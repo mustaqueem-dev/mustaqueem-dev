@@ -1,114 +1,221 @@
-
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&width=700&lines=%3E+Initializing+profile...+%5BDONE%5D;%3E+Loading+stack...+MERN+%7C+Next.js+%7C+PostgreSQL+%7C+Docker;%3E+Status%3A+open_to_work+%3D+true;%3E+Location%3A+Patna%2C+Bihar%2C+India+%F0%9F%87%AE%F0%9F%87%B3;%3E+OS%3A+Ubuntu+Linux+--+always;%3E+Mission%3A+self-taught+%7C+no+degree+%7C+ships+to+production" />
-
-
-
-
-```bash
-┌──[mustaqueem@github]─[~]
-└─$ cat about.md
-```
-
-```
-  Self-taught full stack developer. Started 2024, 12th grade,
-  no bootcamp, no CS degree — just consistent work and shipped
-  products. Currently going deep on backend engineering.
-
-  Building a 200+ utility tools platform using Turborepo.
-  Daily driver: Ubuntu Linux. Editor: VS Code + vim.
-```
-
-```bash
-┌──[mustaqueem@github]─[~]
-└─$ ls -la skills/
-```
-
-```
-drwxr-xr-x  frontend/     → React · Next.js 14 · TypeScript · Tailwind · Redux
-drwxr-xr-x  backend/      → Node.js · Express · Socket.io · Python · JWT
-drwxr-xr-x  database/     → PostgreSQL · MongoDB · Redis · Prisma · Mongoose
-drwxr-xr-x  devops/       → Docker · GitHub Actions · Linux · Bash · Nginx
-drwxr-xr-x  learning/     → AWS · Kubernetes · Kafka · System Design · Terraform
-```
-
----
-
-```bash
-┌──[mustaqueem@github]─[~]
-└─$ git log --all --oneline
-```
-
-```
-[LIVE]  a1f3c9d  RMS         → Restaurant Mgmt System — orders, billing, staff
-[LIVE]  88e2b01  NoteSync    → Real-time collaborative notes with markdown
-[LIVE]  f4c720a  CoachingSync→ Institute platform — students, batches, fees
-[WIP]   e29d113  ToolsHub    → 200+ utility tools — Turborepo monorepo
-```
-
----
-
-```bash
-┌──[mustaqueem@github]─[~]
-└─$ gh stats --username mustaqueem-dev
-```
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustaqueem-dev&show_icons=true&hide_border=true&bg_color=010b01&title_color=00FF41&icon_color=00FF41&text_color=00CC33&ring_color=00FF41" height="160"/>
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mustaqueem-dev&hide_border=true&background=010b01&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00CC33&dates=007A1E&currStreakNum=00FF41&sideNums=00CC33" height="160"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mustaqueem-dev&bg_color=010b01&color=00CC33&line=00FF41&point=00FF41&area_color=003B00&area=true&hide_border=true" width="96%"/>
-</div>
-
----
-
-```bash
-┌──[mustaqueem@github]─[~]
-└─$ curl -X GET contact.mustaqueem.dev
-```
-
-```json
-{
-  "status"     : 200,
-  "open_to"    : ["Backend Engineer", "Full Stack Dev", "Remote / Hybrid"],
-  "linkedin"   : "linkedin.com/in/md-mustaqueem-2895813a3",
-  "portfolio"  : "portfolio-alpha-bay-14.vercel.app",
-  "email"      : "mustaqueem.dev@gmail.com",
-  "twitter"    : "x.com/mustaqueem_dev",
-  "response"   : "< 24h"
-}
-```
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-010b01?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/md-mustaqueem-2895813a3)
-[![Portfolio](https://img.shields.io/badge/Portfolio-010b01?style=for-the-badge&logo=vercel&logoColor=00FF41)](https://portfolio-alpha-bay-14.vercel.app)
-[![Email](https://img.shields.io/badge/Gmail-010b01?style=for-the-badge&logo=gmail&logoColor=00FF41)](mailto:mustaqueem.dev@gmail.com)
-[![Twitter](https://img.shields.io/badge/Twitter-010b01?style=for-the-badge&logo=x&logoColor=00FF41)](https://x.com/mustaqueem_dev)
+# Hi there, I'm Md Mustaqueem 👋
+
+### Backend Engineer building scalable applications with modern technologies.
+
+<p>
+I enjoy designing reliable backend systems, building scalable web applications, and continuously exploring the world of Artificial Intelligence.
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Backend+Engineer;MERN+Stack+Developer;Learning+Generative+AI;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 </div>
 
 ---
 
-```bash
-┌──[mustaqueem@github]─[~]
-└─$ echo $QUOTE
-```
+# 💫 About Me
 
-```
-  "I don't wait for the right conditions.
-   I ship in the wrong ones — on purpose."
-                                — mustaqueem
-```
+- 🎓 Fresher passionate about Backend Engineering
+- 🚀 Building scalable applications using the MERN Stack
+- 🤖 Currently learning **Generative AI** and **AI/ML**
+- 🐧 Comfortable working with Linux and Docker
+- ☁️ Exploring AWS and Google Cloud Platform
+- 🌱 Always learning new technologies and best engineering practices
+- 💡 Interested in Backend Architecture, DevOps and Generative AI
 
-```bash
-┌──[mustaqueem@github]─[~]
-└─$ █
-```
+---
+
+# 🚀 Current Focus
+
+- Building production-ready backend applications
+- Learning Large Language Models (LLMs)
+- Exploring AI-powered applications
+- Improving system design and backend architecture
+- Writing clean, maintainable and scalable code
+
+---
+
+# 🛠️ Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,python" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+## Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=react" /> Expo
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+## DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=linux,docker" />
+</p>
+
+## Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,gcp" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 🚀 Coaching Sync
+
+A modern student management and payment management platform built with the MERN Stack.
+
+**Highlights**
+
+- Student Management
+- Fee & Payment Tracking
+- Authentication
+- Dashboard
+- Responsive UI
+
+**Tech Stack**
+
+`MongoDB` • `Express` • `React` • `Node.js`
+
+---
+
+## 💬 SwiftChat
+
+A modern WhatsApp-inspired messaging platform focused on scalable backend architecture.
+
+**Highlights**
+
+- Authentication
+- Real-time Messaging
+- Secure Backend
+- Modern Architecture
+- Scalable Design
+
+**Tech Stack**
+
+`MongoDB` • `Express` • `React` • `Node.js`
+
+---
+# 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mustaqueem-dev&style=flat-square&color=00FF41&label=visitors" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mustaqueem-dev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=mustaqueem-dev&theme=github-dark&hide_border=true" />
+
+</div>
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mustaqueem-dev&layout=compact&theme=github_dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mustaqueem-dev&theme=algolia&no-frame=true&no-bg=true&margin-w=8&margin-h=8"/>
+
+</div>
+
+---
+
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mustaqueem-dev&theme=github-dark&hide_border=true"/>
+
+</div>
+
+---
+
+# 🌱 Currently Learning
+
+- 🤖 Generative AI
+- 🧠 AI / Machine Learning
+- ⚙️ Backend Architecture
+- 🐳 Docker & DevOps
+- ☁️ AWS & Google Cloud Platform
+- 🏗️ System Design
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="mailto:mustaqueem.dev@gmail.com">
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/YouTube-111111?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/GitLab-111111?style=for-the-badge&logo=gitlab&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💬 Random Dev Quote
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 🚀
+
+*"Build. Learn. Improve. Repeat."*
+
 </div>
